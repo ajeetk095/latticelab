@@ -1,0 +1,12 @@
+[theme]
+primaryColor = "#6C5CE7"
+font = "sans serif"
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = true
+maxUploadSize = 5
+
+[browser]
+gatherUsageStats = false
